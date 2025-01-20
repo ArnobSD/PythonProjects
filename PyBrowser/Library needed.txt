@@ -1,0 +1,6 @@
+Here are the libraries you'll need to have installed for your script to work:
+PyQt5: The core library for the application's GUI components.
+PyQtWebEngine: This is required for the QWebEngineView widget to display web pages.
+
+You can install these libraries using pip:
+pip install PyQt5 PyQtWebEngine
