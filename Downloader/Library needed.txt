@@ -1,0 +1,14 @@
+Here are the libraries you'll need for your script:
+
+tkinter: For creating GUI applications.
+yt_dlp: A YouTube downloader.
+requests: For making HTTP requests.
+concurrent.futures: For running tasks concurrently.
+os: For interacting with the operating system.
+threading: For working with threads.
+time: For time-related tasks.
+speedtest: For testing internet speed.
+
+You can install these libraries using pip:
+
+pip install yt-dlp requests speedtest-cli
